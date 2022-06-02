@@ -44,27 +44,66 @@
 
 <div><h2> Projects</h2></div>
 <ol>
-   <li><h3>Clone Of Royal Enfield </h3>
+   <li>
+    <h3>Clone Of Royal Enfield </h3>
       <img align="left" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+   <p> A Group prject of cloning of one of the oldest motorcycle manufacturing company in the woorld.</p>
     <ul><h4>Features</h4>
-     <li></li>
-      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
+      <li>Completely responsive website for both desktop and mobile devices</li>
+     <li> A sign-up and Sign-in option for user</li> 
+     <li> User-friendly website to view different bikes, locate nearest dealers, buying branded merchandise</li>
+     <li> Smooth e-commerce purchase flow from viewing products to adding to cart section and finally 
+  payment option for users</li>
+       <li>Sorting, Filtering, Searching for different products</li> </ul>
+    <h4><a>Related Link</a></h4>
+      <a href="https://github.com/rg15697/Royal-Enfield" >  <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <a/>
+       <a href="https://royalenfieldclone.netlify.app/" ><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+       <a href="" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+       
+  </li>
     
-     <p>Productttttttttttttttttttttttttttttttttttttttttttttttttttttt</p>
-  </li>
-    <li><h3>Clone Of Bkinkit </h3>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU " />
+    
+    
+<li><h3>Clone Of Bkinkit</h3>
+<img height="480px" width="350px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
+  <p>Blinkit is a leading E-Commerce website for all types of grocery products such as fruits, vegetables, breakfast & dairy products, biscuits, snacks, chocolates, and many more. It was founded in December 2013.</p>
+     
+<ul><h4>Features</h4>
+      <li>Location Fetching using Geographical Location, lat, and long /custom Location Search.</li>
+      <li>Login / Sign Up / Profile and their Pop-Ups.</li>
+      <li>Product slider for different categories.</li> 
+      <li> Product page for different categories.</li>
+      <li>Detailed product preview page.</li> 
+      <li>Add to cart option for buying products.</li> 
+      <li> Payment Page.</li> 
+      <li>Get the App / About / Career / Partner / Blog -> with Media query for All Size Screen.</li> 
+  </ul>
+         <h4><a>Related Link</a></h4>
+      <a href="https://github.com/rg15697/blinkit" > 
+       <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <a/>
+       <a href="https://blink-it-by-arshad-gaurav-ayush-rohit-shubham.netlify.app/" >
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+       <a href="https://medium.com/@rg15697/second-construct-week-and-a-new-experience-c71af930eb80" >
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+ 
+<li><h3>Clone Of MamaEarth </h3><img height="450px" width="400px" align="left" src="https://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
+  <p>Mamaearth is an Indian company of Health, Wellness & Fitness. It is Asia’s first MadeSafe certified brand. The brand’s proposition and the dire need for toxin-free organic products.</p>
      <ul><h4>Features</h4>
-     <li></li>
-      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
+     <li>Home page with a quick glimpse of the whole website, products of all categories, and comparison with other’s product</li>
+      <li>Authentication page — Login / Sign Up / Profile and their Pop-Ups.</li> 
+      <li>Product slider for different categories.</li> 
+      <li>Product page for different categories with sorting functionality.</li> 
+      <li>Detailed product preview page.</li>
+      <li>Add to cart option for buying products.</li> 
+      <li>Payment Page.</li> 
+     </ul>
+      
+<h4><a>Related Link</a></h4>
+    <a href="https://github.com/rg15697/Clone_MamaEarth" > <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <a/>
+  <a href="https://clone-mamaearth.netlify.app/" ><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+ <a href="https://medium.com/@rg15697/a-new-experience-with-cloning-of-mamaearth-website-fbffb55767aa" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   </li>
-    <li><h3>Clone Of MamaEarth </h3>
-      <img src="https://mlripzjgjbdg.i.optimole.com/NzMOFj8-6q-AoyIW/w:463/h:285/q:75/http://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
-     <ul><h4>Features</h4>
-     <li></li>
-      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
-  </li>
- </ol>
+</ol>
 
 
  </div>  
@@ -72,7 +111,6 @@
 <h2>GitHub stats </h2>
 <div>
      <div><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=rg15697&show_icons=true&theme=radical" /></div>
-
     <div><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
  </div>             
        
