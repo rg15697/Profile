@@ -71,6 +71,22 @@ Royal Enfield is an Indian motorcycle manufacturing company, popularly known for
     <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
  </div>             
              
+<h2>Don't be a stranger Let's connect </h2>
 
 
+<div display="flex">
+    <div><a href="https://medium.com/@rg15697"> 
+          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a></div>
+    <div> <a href="https://www.linkedin.com/in/rg15697/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a></div>
+ 
+   <div><a href="#portfolio"> 
+         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+    </a></div>
+    <div> <a href="https://twitter.com/rg15697" > 
+          <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+     </a></div>
+ </div>
 
