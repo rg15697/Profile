@@ -41,18 +41,14 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div>  
  
-<h2>GitHub stats </h2>
-<div>
-     <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rg15697&show_icons=true&theme=radical" /></div>
-    <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
- </div>
+
 
 
 
 <div><h2> Projects</h2></div>
 
 
-  <div display="grid"; justify-content="center"; gap="30px"; grid-template-columns=(1fr,1fr) >
+<!--   <div display="grid"; justify-content="center"; gap="30px"; grid-template-columns=(1fr,1fr) >
        <div>
            <img height="40px" width="400px" margin="auto" src="https://i.ebayimg.com/thumbs/images/g/Vz8AAOSw8XdhqeD-/s-l300.jpg" />
         <p>This project is a clone of the Royal Enfield website. During our First construct week in Masai School, we as a group of 6 members collaborated and cloned the website within 6 days' time.
@@ -67,8 +63,13 @@ Royal Enfield is an Indian motorcycle manufacturing company, popularly known for
         <img src ="https://mlripzjgjbdg.i.optimole.com/NzMOFj8-6q-AoyIW/w:463/h:285/q:75/http://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
      </div> 
 
- </div> 
+ </div>  -->
 
+<h2>GitHub stats </h2>
+<div>
+     <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rg15697&show_icons=true&theme=radical" /></div>
+    <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
+ </div>             
              
 
 
