@@ -65,7 +65,7 @@
     
     
 <li><h3>Clone Of Bkinkit</h3>
-<img height="480px" width="350px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
+<img height="460px" width="350px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
   <p>Blinkit is a leading E-Commerce website for all types of grocery products such as fruits, vegetables, breakfast & dairy products, biscuits, snacks, chocolates, and many more. It was founded in December 2013.</p>
      
 <ul><h4>Features</h4>
