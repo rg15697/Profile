@@ -45,13 +45,24 @@
 <div><h2> Projects</h2></div>
 <ol>
    <li><h3>Clone Of Royal Enfield </h3>
-      <img src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+      <img align="left" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+    <ul><h4>Features</h4>
+     <li></li>
+      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
+    
+     <p>Productttttttttttttttttttttttttttttttttttttttttttttttttttttt</p>
   </li>
-    <li><h3>Clone Of Royal Enfield </h3>
+    <li><h3>Clone Of Bkinkit </h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU " />
+     <ul><h4>Features</h4>
+     <li></li>
+      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
   </li>
-    <li><h3>Clone Of Royal Enfield </h3>
+    <li><h3>Clone Of MamaEarth </h3>
       <img src="https://mlripzjgjbdg.i.optimole.com/NzMOFj8-6q-AoyIW/w:463/h:285/q:75/http://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
+     <ul><h4>Features</h4>
+     <li></li>
+      <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li> <li></li>
   </li>
  </ol>
 
@@ -60,8 +71,9 @@
 
 <h2>GitHub stats </h2>
 <div>
-     <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rg15697&show_icons=true&theme=radical" /></div>
-    <div><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
+     <div><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=rg15697&show_icons=true&theme=radical" /></div>
+
+    <div><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
  </div>             
        
 <h2>Don't be a stranger Let's connect </h2>
