@@ -60,7 +60,7 @@
     <h4><a>Related Link</a></h4>
       <a href="https://github.com/rg15697/Royal-Enfield" >  <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <a/>
        <a href="https://royalenfieldclone.netlify.app/" ><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-       <a href="" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+       <a href="https://medium.com/@abinash24x7/building-a-clone-of-royal-enfield-website-5436e28bc418" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
        
   </li>
     
