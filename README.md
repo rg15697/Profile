@@ -3,10 +3,10 @@
   
   
  <h2>About</h2>
-  <p>An observant and diligent aspiring full-stack developer specialization in MERN. I am skilled in Front-end tech as HTML5, CSS3, JavaScript, React  and Backend Tech as Node.js Express, and MongoDB and good hands on DSA.  I love writing clean and Efficient code. I believe in continuos practice and exploring more. </p>
+  <p>An observant and diligent Aspiring full-stack developer specialized in MERN stack with good hands on DSA.  I love writing clean and Efficient code. I believe in continuos practice and exploring more. </p>
   
 <h2>Current status</h2>
-  <p>As a student I am working On React, DSA and soft skills as well as Fitness. </p>
+  <p>As a student I have completed MERN but exploring more. </p>
  
 <h2>Tech skills</h2>
   
@@ -24,7 +24,6 @@
   <h3>Back-end-tech </h3>
 <div display="flex" >
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white " />
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
@@ -36,12 +35,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>  
   
-  
-<h3>Extra skills</h3>
-<div display="flex" >
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-</div>  
+    
  
 
 <div><h2> Projects</h2></div>
