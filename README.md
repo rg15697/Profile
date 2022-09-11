@@ -42,7 +42,7 @@
 <ol>
    <li>
     <h3>Clone Of Royal Enfield </h3>
-    <img align="left" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+    <img align="left" height="400px" width="400px" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
     <p> A Group prject of cloning of one of the oldest motorcycle manufacturing company in the woorld.</p>
     <ul><h4>Features</h4>
         <li>Completely responsive website for both desktop and mobile devices</li>
@@ -69,7 +69,7 @@
     
 <li>
     <h3>Clone Of Bkinkit</h3>
-    <img height="460px" width="350px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
+    <img height="500px" width="400px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
     <p>Blinkit is a leading E-Commerce website for all types of grocery products such as fruits, vegetables, breakfast & dairy products, biscuits, snacks, chocolates, and many more. It was founded in December 2013.</p> 
     <ul><h4>Features</h4>
       <li>Location Fetching using Geographical Location, lat, and long /custom Location Search.</li>
@@ -120,7 +120,7 @@
 
 
 <li>
-   <h3>Clone Of Tripoto </h3><img height="490px" width="400px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
+   <h3>Clone Of Tripoto </h3><img height="510px" width="400px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
     <p>Tripoto is social travel platform to share and discover travel experiences, stories, community, tourism guides, hotels, holidays, getaways, attractions and It also allow user to book trip.</p>
     <ul><h4>Features</h4>
       <li>Home page: with a quick glimpse of the whole website, What an user can get/experience on the website.</li>
@@ -139,7 +139,7 @@
 </li>
 
 
-<li><h3>Clone Of Tmetrico </h3><img height="490px" width="400px" align="left" src="https://startupbuffer.com/uploads/6d8c7dbff5d43414da4cbd3d0367b034.jpg" />
+<li><h3>Clone Of Tmetrico </h3><img height="510px" width="400px" align="left" src="https://startupbuffer.com/uploads/6d8c7dbff5d43414da4cbd3d0367b034.jpg" />
   <p >Simple time tracking app for Windows, Mac, Linux which helps you to control your time, increase productivity, monitor your team performance.</p>
      <ul><h4>Features</h4>
      <li>Home page: with a quick glimpse of the whole website..</li>
