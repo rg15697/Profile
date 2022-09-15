@@ -38,11 +38,9 @@
     
  
 
-<div><h2> Projects</h2></div>
-<ol>
-   <li>
+<h2> Projects</h2>
     <h3>Clone Of Royal Enfield </h3>
-    <img align="left" height="400px" width="400px" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+    <img align="left" height="400x" width="415px" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
     <p> A Group prject of cloning of one of the oldest motorcycle manufacturing company in the woorld.</p>
     <ul><h4>Features</h4>
         <li>Completely responsive website for both desktop and mobile devices</li>
@@ -63,13 +61,8 @@
        <a href="https://medium.com/@abinash24x7/building-a-clone-of-royal-enfield-website-5436e28bc418" >
            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
         </a>
-  </li>
-    
-    
-    
-<li>
     <h3>Clone Of Bkinkit</h3>
-    <img height="500px" width="400px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
+    <img height="500px" width="415px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
     <p>Blinkit is a leading E-Commerce website for all types of grocery products such as fruits, vegetables, breakfast & dairy products, biscuits, snacks, chocolates, and many more. It was founded in December 2013.</p> 
     <ul><h4>Features</h4>
       <li>Location Fetching using Geographical Location, lat, and long /custom Location Search.</li>
@@ -91,11 +84,8 @@
     <a href="https://medium.com/@rg15697/second-construct-week-and-a-new-experience-c71af930eb80" >
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-    </li>
- 
-<li>
     <h3>Clone Of MamaEarth </h3>
-    <img height="450px" width="400px" align="left" src="https://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
+    <img height="450px" width="415px" align="left" src="https://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
     <p>Mamaearth is an Indian company of Health, Wellness & Fitness. It is Asia’s first MadeSafe certified brand. The brand’s proposition and the dire need for toxin-free organic products.</p>
     <ul><h4>Features</h4>
      <li>Home page with a quick glimpse of the whole website, products of all categories, and comparison with other’s product</li>
@@ -115,12 +105,8 @@
     <a href="https://medium.com/@rg15697/a-new-experience-with-cloning-of-mamaearth-website-fbffb55767aa" >
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-</li>
 
-
-
-<li>
-   <h3>Clone Of Tripoto </h3><img height="510px" width="400px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
+   <h3>Clone Of Tripoto </h3><img height="510px" width="415px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
     <p>Tripoto is social travel platform to share and discover travel experiences, stories, community, tourism guides, hotels, holidays, getaways, attractions and It also allow user to book trip.</p>
     <ul><h4>Features</h4>
       <li>Home page: with a quick glimpse of the whole website, What an user can get/experience on the website.</li>
@@ -136,10 +122,8 @@
     <a href="https://github.com/shubham0709/uncovered-shame-5230" > <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
   <a href="https://tripoto-travel.netlify.app/" ><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
  <!-- <a href="https://medium.com/@rg15697/a-new-experience-with-cloning-of-mamaearth-website-fbffb55767aa" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
-</li>
-
-
-<li><h3>Clone Of Tmetrico </h3><img height="510px" width="400px" align="left" src="https://startupbuffer.com/uploads/6d8c7dbff5d43414da4cbd3d0367b034.jpg" />
+<h3>Clone Of Tmetrico </h3>
+<img height="510px" width="415px" align="left" src="https://startupbuffer.com/uploads/6d8c7dbff5d43414da4cbd3d0367b034.jpg" />
   <p >Simple time tracking app for Windows, Mac, Linux which helps you to control your time, increase productivity, monitor your team performance.</p>
      <ul><h4>Features</h4>
      <li>Home page: with a quick glimpse of the whole website..</li>
@@ -156,15 +140,6 @@
     <a href="https://github.com/shubham0709/uncovered-shame-5230" > <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
   <a href="https://tripoto-travel.netlify.app/" ><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
  <!-- <a href="https://medium.com/@rg15697/a-new-experience-with-cloning-of-mamaearth-website-fbffb55767aa" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
-</li>
-
-
-</ol>
-
-
-
-
-
  </div>  
 
 <h2>GitHub stats </h2>
