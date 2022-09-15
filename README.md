@@ -40,7 +40,7 @@
 
 <h2> Projects</h2>
     <h3>Clone Of Royal Enfield </h3>
-    <img align="left" height="400x" width="415px" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
+    <img align="left" height="380x" width="415px" src="https://m.media-amazon.com/images/I/71ks8O5VinL._SY355_.jpg" />
     <p> A Group prject of cloning of one of the oldest motorcycle manufacturing company in the woorld.</p>
     <ul><h4>Features</h4>
         <li>Completely responsive website for both desktop and mobile devices</li>
@@ -62,7 +62,7 @@
            <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
         </a>
     <h3>Clone Of Bkinkit</h3>
-    <img height="500px" width="415px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
+    <img height="470px" width="415px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x64ALInwcih25TdrMDIUGF8Coc61TfPw2uRaiAcuTEDYSFLIUpqLpBWeCPW5n92glSI&usqp=CAU" />
     <p>Blinkit is a leading E-Commerce website for all types of grocery products such as fruits, vegetables, breakfast & dairy products, biscuits, snacks, chocolates, and many more. It was founded in December 2013.</p> 
     <ul><h4>Features</h4>
       <li>Location Fetching using Geographical Location, lat, and long /custom Location Search.</li>
@@ -85,7 +85,7 @@
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <h3>Clone Of MamaEarth </h3>
-    <img height="450px" width="415px" align="left" src="https://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
+    <img height="420px" width="415px" align="left" src="https://marqueex.com/wp-content/uploads/2021/02/mama-earth.png" />
     <p>Mamaearth is an Indian company of Health, Wellness & Fitness. It is Asia’s first MadeSafe certified brand. The brand’s proposition and the dire need for toxin-free organic products.</p>
     <ul><h4>Features</h4>
      <li>Home page with a quick glimpse of the whole website, products of all categories, and comparison with other’s product</li>
@@ -106,7 +106,7 @@
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
 
-   <h3>Clone Of Tripoto </h3><img height="510px" width="415px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
+   <h3>Clone Of Tripoto </h3><img height="480px" width="415px" align="left" src="https://www.travhq.com/wp-content/uploads/2016/03/tripoto-logo-large.jpg" />
     <p>Tripoto is social travel platform to share and discover travel experiences, stories, community, tourism guides, hotels, holidays, getaways, attractions and It also allow user to book trip.</p>
     <ul><h4>Features</h4>
       <li>Home page: with a quick glimpse of the whole website, What an user can get/experience on the website.</li>
