@@ -170,11 +170,11 @@
   <div><a href="https://medium.com/@rg15697"> 
         <img  align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a></div>
-  <div> <a href="https://www.linkedin.com/in/rg15697/">
+  <div> <a href="https://www.linkedin.com/in/rg15697">
      <img  align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a></div>
 
- <div><a href="#portfolio"> 
+ <div><a href="https://rohit-gupta-portfolio.netlify.app/"> 
        <img  align="left" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a></div>
   <div> <a href="https://twitter.com/rg15697" > 
