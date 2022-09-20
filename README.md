@@ -153,7 +153,7 @@
   <div><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg15697&layout=compact" /></div>
 </div>             
      
-<h2>Don't be a stranger Let's connect </h2>
+<h2>Don't be a stranger Let's connect ... </h2>
 
  <div display="flex"> 
         <img align="left" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <p>+91 7651991563</p>
