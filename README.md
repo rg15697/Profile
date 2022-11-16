@@ -2,7 +2,7 @@
 <h2 align="center">I am Rohit Kumar Gupta </h3>
 
 <h2>About</h2>
-<p>An observant and diligent Aspiring full-stack developer specialized in MERN stack with good hands on DSA.  Excellent problem-solving skills and ability to perform well in a team. Willing to contribute to an organization as a software engineer. Beleaves in continuous practice and exploring more. 
+<p>An observant and diligent full-stack developer specialized in MERN stack with good hands on DSA.  Excellent problem-solving skills and ability to perform well in a team. Willing to contribute to an organization as a software engineer. Beleaves in continuous practice and exploring more. 
 </p>
 
 <!-- <h2>Current status</h2>
